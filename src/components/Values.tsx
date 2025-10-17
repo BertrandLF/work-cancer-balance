@@ -48,20 +48,9 @@ export default function Values() {
 
             <div className="card p-6 hover:scale-105 transition-transform">
               <h3 className="font-bold text-xl mb-3">Code de déontologie</h3>
-              <p className="text-gray-600 dark:text-gray-300 leading-relaxed mb-3">
+              <p className="text-gray-600 dark:text-gray-300 leading-relaxed">
                 Respecte le code de déontologie de la Fédération Internationale de Coaching (I.C.F.).
               </p>
-              <a
-                href="https://www.coachfederation.ch/fileadmin/Ethics_CoreCompetencies/Ethics_French_-_June_2015.pdf"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="text-primary-600 dark:text-primary-400 text-sm hover:underline inline-flex items-center gap-1"
-              >
-                En savoir plus
-                <svg className="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24" aria-hidden="true">
-                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M10 6H6a2 2 0 00-2 2v10a2 2 0 002 2h10a2 2 0 002-2v-4M14 4h6m0 0v6m0-6L10 14" />
-                </svg>
-              </a>
             </div>
           </div>
         </div>
