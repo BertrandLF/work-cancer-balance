@@ -1,0 +1,21 @@
+{
+  "name": "Work&Cancer Balance Suisse",
+  "short_name": "WCB Suisse",
+  "description": "Coaching pour équilibrer travail et cancer",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fffbf5",
+  "theme_color": "#c54646",
+  "icons": [
+    {
+      "src": "/assets/logo-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/logo-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
