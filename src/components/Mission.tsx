@@ -1,6 +1,6 @@
 export default function Mission() {
   return (
-    <section id="mission" className="section bg-gradient-to-br from-primary-50 via-rose-50 to-orange-50 dark:from-primary-950/20 dark:via-rose-950/20 dark:to-gray-900">
+    <section id="mission" className="section bg-gradient-to-br from-blue-50 via-cyan-50 to-emerald-50 dark:from-slate-900 dark:via-blue-950/20 dark:to-slate-900">
       <div className="container-prose">
         <div className="mx-auto max-w-5xl">
           <div className="text-center mb-12">

@@ -1,7 +1,6 @@
 import Background from "./components/Background";
 import Header from "./components/Header";
 import Hero from "./components/Hero";
-import Mission from "./components/Mission";
 import CoachingDetails from "./components/CoachingDetails";
 import Values from "./components/Values";
 import WhoWeAre from "./components/WhoWeAre";
@@ -18,7 +17,6 @@ export default function App() {
       <Header />
       <main>
         <Hero />
-        <Mission />
         <CoachingDetails />
         <Values />
         <WhoWeAre />
